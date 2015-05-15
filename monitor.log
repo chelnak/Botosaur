@@ -1,0 +1,717 @@
+2015-05-15 16:45:37,723 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:45:37,725 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:45:39,083 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:45:41,274 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:45:41,275 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:45:41,275 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:47:43,448 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:47:43,450 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:47:43,452 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:47:45,681 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:47:45,681 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:47:45,682 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:48:37,532 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:48:37,534 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:48:37,536 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:48:40,308 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:48:40,309 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:48:40,310 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:49:27,395 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:49:27,396 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:49:27,397 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:49:29,528 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:49:29,529 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:49:29,529 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:49:51,662 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:50:11,688 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:50:31,861 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:53:45,746 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:53:45,747 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:53:45,748 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:53:47,963 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:53:47,964 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:53:47,964 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:54:09,988 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:54:49,819 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:54:49,820 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:54:49,821 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:54:52,029 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:54:52,029 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:54:52,030 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:54:59,020 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:55:04,029 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:56:04,983 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:56:04,985 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:56:04,987 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:56:07,209 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:56:07,210 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:56:07,211 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:56:14,175 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:56:19,188 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:56:55,341 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:56:55,343 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:56:55,345 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:56:57,586 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:56:57,587 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:56:57,587 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:04,606 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:09,616 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:14,628 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:19,654 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:24,664 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:29,673 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:34,958 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:39,966 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:44,975 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:49,984 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:57:54,993 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:00,002 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:05,225 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:10,232 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:13,009 - BOTOSAUR - INFO - Initializing database
+2015-05-15 16:58:13,009 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 16:58:13,010 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 16:58:15,219 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 16:58:15,219 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 16:58:15,220 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:22,343 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:27,352 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:32,360 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:37,368 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:42,376 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:47,384 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:52,603 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:58:57,612 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:02,623 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:07,632 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:12,639 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:17,648 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:22,819 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:27,828 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:32,842 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:37,852 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:42,867 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:47,878 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:53,215 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 16:59:58,222 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:03,230 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:08,243 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:13,251 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:18,261 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:23,475 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:28,490 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:33,500 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:38,528 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:00:44,242 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:00:44,243 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:00:44,245 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:01:44,416 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:01:44,418 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:01:44,421 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:01:46,634 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:01:46,635 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:01:46,635 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:01:53,838 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:01:58,847 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:02:03,858 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:02:08,870 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:02:13,880 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:02:18,890 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:02:24,180 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:02:29,190 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:02:34,200 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:04:51,147 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:04:51,148 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:04:51,150 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:04:53,373 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:04:53,374 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:04:53,375 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:06:40,353 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:06:40,354 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:06:40,357 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:06:42,489 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:06:42,490 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:06:42,490 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:08:30,826 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:08:30,826 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:08:30,828 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:08:32,966 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:08:32,966 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:08:32,967 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:09:16,525 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:09:16,526 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:09:16,528 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:09:18,743 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:09:18,743 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:09:18,744 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:09:36,669 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:09:36,671 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:09:36,673 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:09:38,890 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:09:38,891 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:09:38,892 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:10:31,419 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:10:31,422 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:10:31,425 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:10:33,638 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:10:33,639 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:10:33,639 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:11:24,715 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:11:24,717 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:11:24,719 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:11:26,863 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:11:26,864 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:11:26,865 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:11:33,879 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:11:38,891 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:11:43,902 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:11:48,912 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:11:53,923 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:12:23,986 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:12:23,988 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:12:23,991 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:12:26,207 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:12:26,208 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:12:26,208 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:12:33,142 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:12:40,528 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:12:40,529 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:12:40,530 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:12:42,778 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:12:42,779 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:12:42,779 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:12:49,716 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:15:01,590 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:15:01,592 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:15:01,595 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:15:03,819 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:15:03,819 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:15:03,820 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:15:10,979 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:15:15,986 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:16:42,052 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:16:42,054 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:16:42,056 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:16:44,265 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:16:44,266 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:16:44,267 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:16:51,267 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:16:56,273 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:17:01,283 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:03,422 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:18:03,424 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:18:03,427 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:18:05,565 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:18:05,566 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:18:05,566 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:12,604 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:17,614 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:22,625 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:27,633 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:32,643 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:37,653 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:42,782 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:47,792 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:52,801 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:18:57,811 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:02,821 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:07,832 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:08,088 - BOTOSAUR - INFO - Found new comment with id cra4k1x
+2015-05-15 17:19:17,050 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:22,069 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:27,079 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:32,088 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:37,098 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:19:42,112 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:28:47,945 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:28:47,947 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:28:47,950 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:28:50,096 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:28:50,097 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:36:00,669 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:36:00,670 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:36:00,671 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:36:02,903 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:36:02,903 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:37:09,530 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:37:09,531 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:37:09,534 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:37:11,683 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:37:11,684 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:37:11,685 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:37:33,695 - BOTOSAUR - INFO - Retrieving comments with limit of 1
+2015-05-15 17:37:54,407 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:37:54,408 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:37:54,411 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:37:56,553 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:37:56,554 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:37:56,554 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:37:58,689 - BOTOSAUR - INFO - Found new comment with id cr9x8m9
+2015-05-15 17:38:10,188 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:11,194 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:12,204 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:13,216 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:14,226 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:15,238 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:16,248 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:17,258 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:18,268 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:19,280 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:20,292 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:21,305 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:22,315 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:23,321 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:24,332 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:25,345 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:26,357 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:27,369 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:28,379 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:29,389 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:30,681 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:31,692 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:32,703 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:33,713 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:34,723 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:35,734 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:36,744 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:37,754 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:38,764 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:39,775 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:40,784 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:41,790 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:42,800 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:43,806 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:44,816 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:45,830 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:46,841 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:47,852 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:48,862 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:49,872 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:50,885 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:51,891 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:52,902 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:53,912 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:54,922 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:55,929 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:56,940 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:38:57,950 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:38,085 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:39:38,086 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:39:38,089 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:39:40,229 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:39:40,229 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:39:40,230 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:43,342 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:44,355 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:45,364 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:46,369 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:47,397 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:48,407 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:49,413 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:50,423 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:51,434 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:52,448 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:53,464 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:54,474 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:55,485 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:56,495 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:57,507 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:58,517 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:39:59,532 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:00,543 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:01,554 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:02,566 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:03,576 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:04,583 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:05,594 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:06,607 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:07,620 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:08,631 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:09,644 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:10,654 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:11,671 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:12,683 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:13,026 - BOTOSAUR - INFO - Found new comment with id cra5bg2
+2015-05-15 17:40:17,862 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:18,874 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:19,883 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:20,897 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:21,907 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:22,919 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:23,925 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:24,931 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:25,939 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:26,948 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:27,961 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:28,972 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:29,978 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:30,983 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:31,989 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:32,999 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:34,005 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:35,016 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:36,030 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:37,042 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:38,051 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:39,056 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:40,062 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:41,073 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:42,079 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:43,086 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:43,374 - BOTOSAUR - INFO - Found new comment with id cra5cc8
+2015-05-15 17:40:47,255 - BOTOSAUR - INFO - Found new comment with id cra5btr
+2015-05-15 17:40:52,270 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:53,283 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:54,294 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:55,300 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:56,310 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:57,323 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:58,332 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:40:59,344 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:00,352 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:01,363 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:02,376 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:03,388 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:04,400 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:05,417 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:06,423 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:07,436 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:08,451 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:09,466 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:10,478 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:11,489 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:12,512 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:13,524 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:14,820 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:15,833 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:16,843 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:17,854 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:18,865 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:19,876 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:20,893 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:21,904 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:22,917 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:23,927 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:24,938 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:25,951 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:26,961 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:27,978 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:28,989 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:30,000 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:31,010 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:32,024 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:33,036 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:34,047 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:35,059 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:36,070 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:37,082 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:38,093 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:39,104 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:40,115 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:41,126 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:42,136 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:43,158 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:44,170 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:44,485 - BOTOSAUR - INFO - Found new comment with id cra5d6w
+2015-05-15 17:41:48,432 - BOTOSAUR - INFO - Found new comment with id cra5d4p
+2015-05-15 17:41:53,328 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:54,339 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:55,349 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:56,359 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:57,374 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:58,390 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:41:59,405 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:00,416 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:01,426 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:02,441 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:03,454 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:04,464 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:05,475 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:06,490 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:07,501 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:08,519 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:09,527 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:10,537 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:11,548 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:12,560 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:13,579 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:14,589 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:15,899 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:16,909 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:17,918 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:18,931 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:19,941 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:20,951 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:21,962 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:22,971 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:23,984 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:24,995 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:26,008 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:27,018 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:28,028 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:29,039 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:30,051 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:31,074 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:32,084 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:33,096 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:34,116 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:35,127 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:36,139 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:38,619 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:42:38,620 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:42:38,621 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:42:40,837 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:42:40,837 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:42:40,838 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:47,821 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:52,835 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:42:57,851 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:02,862 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:07,889 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:12,903 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:13,461 - BOTOSAUR - INFO - Found new comment with id cra5fcf
+2015-05-15 17:43:22,097 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:27,125 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:32,142 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:37,157 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:42,174 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:47,192 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:43:47,554 - BOTOSAUR - INFO - Found new comment with id cra5g4g
+2015-05-15 17:46:58,772 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:46:58,774 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:47:00,120 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:47:02,286 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:47:02,287 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:47:02,288 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:47:04,395 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:04,397 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:04,398 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:04,399 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:04,399 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:04,400 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:04,400 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:04,401 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:04,402 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:04,402 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:09,411 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:09,412 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:09,413 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:09,413 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:09,413 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:09,413 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:09,414 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:09,414 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:09,414 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:09,414 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:14,423 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:14,424 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:14,425 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:14,425 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:14,425 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:14,425 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:14,426 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:14,426 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:14,426 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:14,426 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:19,439 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:19,441 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:19,442 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:19,442 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:19,443 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:19,443 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:19,444 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:19,444 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:19,445 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:19,445 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:24,465 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:24,467 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:24,468 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:24,469 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:24,469 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:24,470 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:24,471 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:24,472 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:24,472 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:24,473 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:29,487 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:29,489 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:29,490 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:29,490 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:29,491 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:29,492 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:29,492 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:29,493 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:29,494 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:29,494 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:34,711 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:34,714 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:34,714 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:34,714 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:34,715 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:34,715 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:34,715 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:34,715 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:34,716 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:34,716 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:39,725 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:39,726 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:39,726 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:39,726 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:39,727 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:39,727 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:39,727 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:39,727 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:39,728 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:39,728 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:44,741 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:44,746 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:44,747 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:44,747 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:44,748 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:44,748 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:44,749 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:44,749 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:44,750 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:44,750 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:49,763 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:49,765 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:49,766 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:49,766 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:49,767 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:49,767 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:49,768 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:49,768 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:49,769 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:49,769 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:54,787 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:54,789 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:54,789 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:54,790 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:54,790 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:54,791 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:54,791 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:54,792 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:54,793 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:54,793 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:47:59,808 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:47:59,810 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:47:59,811 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:47:59,811 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:47:59,812 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:47:59,812 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:47:59,813 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:47:59,813 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:47:59,814 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:47:59,814 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:48:05,181 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:48:05,182 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:48:05,183 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:48:05,183 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:48:05,184 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:48:05,184 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:48:05,185 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:48:05,185 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:48:05,186 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:48:05,186 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:48:10,198 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:48:10,205 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:48:10,206 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:48:10,206 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:48:10,207 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:48:10,208 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:48:10,208 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:48:10,208 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:48:10,209 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:48:10,209 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:48:15,225 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:48:15,226 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:48:15,226 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:48:15,227 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:48:15,227 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:48:15,228 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:48:15,228 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:48:15,229 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:48:15,229 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:48:15,230 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:48:20,239 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:48:20,241 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 17:48:20,241 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:48:20,241 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 17:48:20,242 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:48:20,242 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:48:20,242 - BOTOSAUR - INFO - Processing cra5d6w by user phalosaurus_
+2015-05-15 17:48:20,243 - BOTOSAUR - INFO - Processing cra5d4p by user phalosaurus_
+2015-05-15 17:48:20,243 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:48:20,243 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:54:22,285 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:54:22,286 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:54:22,289 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:54:24,529 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:54:24,530 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:54:24,530 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:54:26,656 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 17:54:26,665 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 17:54:26,674 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 17:54:26,680 - BOTOSAUR - INFO - Processing cra5drl by user phalosaurus_
+2015-05-15 17:54:26,683 - BOTOSAUR - INFO - Processing cra5cio by user phalosaurus_
+2015-05-15 17:54:26,686 - BOTOSAUR - INFO - Processing cra5cfv by user phalosaurus_
+2015-05-15 17:57:04,172 - BOTOSAUR - INFO - Initializing database
+2015-05-15 17:57:04,173 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 17:57:04,174 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 17:57:06,301 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 17:57:06,301 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 17:57:06,301 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 17:57:38,737 - BOTOSAUR - INFO - Processing cra5yc0 by user phalosaurus_
+2015-05-15 17:58:09,096 - BOTOSAUR - INFO - Processing cra5yn1 by user phalosaurus_
+2015-05-15 17:58:09,112 - BOTOSAUR - INFO - Found trigger in cra5yn1
+2015-05-15 17:58:13,013 - BOTOSAUR - INFO - Updating replied field
+2015-05-15 17:58:43,354 - BOTOSAUR - INFO - Processing cra5zdu by user phalosaurus_
+2015-05-15 18:01:10,174 - BOTOSAUR - INFO - Initializing database
+2015-05-15 18:01:10,175 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 18:01:10,176 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 18:01:12,313 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 18:01:12,314 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 18:01:12,314 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 18:02:45,764 - BOTOSAUR - INFO - Processing cra64tn by user phalosaurus_
+2015-05-15 18:02:45,778 - BOTOSAUR - INFO - Found trigger in cra64tn
+2015-05-15 18:02:49,709 - BOTOSAUR - INFO - Updating replied field
+2015-05-15 18:03:44,680 - BOTOSAUR - INFO - Initializing database
+2015-05-15 18:03:44,681 - BOTOSAUR - INFO - Initializing reddit API client
+2015-05-15 18:03:44,683 - BOTOSAUR - INFO - Attempting to log in to reddit with credentials from config.ini
+2015-05-15 18:03:46,900 - BOTOSAUR - INFO - Retrieving subreddit: testingground4bots
+2015-05-15 18:03:46,901 - BOTOSAUR - INFO - Beginning monitor..
+2015-05-15 18:03:46,902 - BOTOSAUR - INFO - Retrieving comments with limit of 10
+2015-05-15 18:03:48,996 - BOTOSAUR - INFO - Processing cra65ip by user phalosaurus_
+2015-05-15 18:03:49,018 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:30,600 - BOTOSAUR - INFO - Processing cra65ip by user phalosaurus_
+2015-05-15 18:06:30,609 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:30,610 - BOTOSAUR - INFO - Processing cra64tn by user phalosaurus_
+2015-05-15 18:06:30,615 - BOTOSAUR - INFO - Found trigger in cra64tn
+2015-05-15 18:06:32,790 - BOTOSAUR - INFO - Updating replied field
+2015-05-15 18:06:32,795 - BOTOSAUR - INFO - Processing cra5zdu by user phalosaurus_
+2015-05-15 18:06:32,804 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:32,806 - BOTOSAUR - INFO - Processing cra5yn1 by user phalosaurus_
+2015-05-15 18:06:32,811 - BOTOSAUR - INFO - Found trigger in cra5yn1
+2015-05-15 18:06:36,921 - BOTOSAUR - INFO - Updating replied field
+2015-05-15 18:06:36,929 - BOTOSAUR - INFO - Processing cra5yc0 by user phalosaurus_
+2015-05-15 18:06:36,947 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:36,949 - BOTOSAUR - INFO - Processing cra5gj5 by user phalosaurus_
+2015-05-15 18:06:36,958 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:36,959 - BOTOSAUR - INFO - Processing cra5g4g by user phalosaurus_
+2015-05-15 18:06:36,967 - BOTOSAUR - INFO - Found trigger in cra5g4g
+2015-05-15 18:06:40,838 - BOTOSAUR - INFO - Updating replied field
+2015-05-15 18:06:40,856 - BOTOSAUR - INFO - Processing cra5fqv by user phalosaurus_
+2015-05-15 18:06:40,875 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:40,876 - BOTOSAUR - INFO - Processing cra5fcf by user phalosaurus_
+2015-05-15 18:06:40,885 - BOTOSAUR - INFO - Found trigger in cra5fcf
+2015-05-15 18:06:44,786 - BOTOSAUR - INFO - Updating replied field
+2015-05-15 18:06:44,792 - BOTOSAUR - INFO - Processing cra5dv3 by user phalosaurus_
+2015-05-15 18:06:44,796 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:55,099 - BOTOSAUR - INFO - Processing cra6avs by user phalosaurus_
+2015-05-15 18:06:55,106 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:55,107 - BOTOSAUR - INFO - Processing cra6asq by user phalosaurus_
+2015-05-15 18:06:55,112 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:55,112 - BOTOSAUR - INFO - Processing cra6apm by user phalosaurus_
+2015-05-15 18:06:55,116 - BOTOSAUR - INFO - No trigger found. Ignorinng comment
+2015-05-15 18:06:55,116 - BOTOSAUR - INFO - Processing cra6alz by user phalosaurus_
+2015-05-15 18:06:55,128 - BOTOSAUR - INFO - No trigger found. Ignorinng comment

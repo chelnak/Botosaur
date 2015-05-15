@@ -1,0 +1,11 @@
+[defaults]
+user_agent = ('B0tosaur 0.1')
+log_file = /var/log/botosaur/monitor.log
+facts = /etc/botosaur/facts.txt
+database = botosaur.db
+bot_user = 
+bot_pass = 
+subreddit = testingground4bots
+poll_time = 5
+limit = 10
+trigger = 

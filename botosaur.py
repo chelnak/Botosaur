@@ -8,7 +8,7 @@ import requests
 from databasemanager import DatabaseManager
 from time import sleep
 from ConfigParser import SafeConfigParser
-
+from logging.handlers import TimedRotatingFileHandler
 
 def getFact(file):
     content = None
@@ -18,8 +18,8 @@ def getFact(file):
 
         return random.choice(content)
 
-def respondToTrigger(comment):
-    fact = getFact("facts.txt")
+def respondToTrigger(facts, comment):
+    fact = getFact(facts)
     comment.reply(fact)
 
 def commentProcessed(db,comment_id):
@@ -49,13 +49,14 @@ def main():
 
     #Get configuration  
     parser = SafeConfigParser()
-    parser.read('config.ini')
+    parser.read('/etc/botosaur/config.ini')
     config = parser._sections['defaults']
 
     #Configure logging
     logger = logging.getLogger('BOTOSAUR')
     logger.setLevel(logging.INFO)
-    handler = logging.FileHandler(config['log_file'])
+#    handler = logging.FileHandler(config['log_file'])
+    handler = TimedRotatingFileHandler(config['log_file'],when='midnight')
     handler.setLevel(logging.INFO)
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     handler.setFormatter(formatter)
@@ -92,11 +93,12 @@ def main():
                 logger.info('Processing ' + comment.id + ' by user ' + comment.author.name)
                 addToDatabase(db, comment)
 
-                if (comment.author.name == config['bot_user'] and config['trigger'] in comment.body):
+                if (config['trigger'] in comment.body):
+#                if (comment.author.name == config['bot_user'] and config['trigger'] in comment.body):
 
                     logger.info('Found trigger in ' + comment.id)
 
-                    respondToTrigger(comment)
+                    respondToTrigger(config['facts'], comment)
                     
                     logger.info('Updating replied field')                                    
 

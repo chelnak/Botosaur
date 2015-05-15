@@ -5,6 +5,15 @@ class DatabaseManager(object):
         self.conn = sqlite3.connect(db)
         self.cur = self.conn.cursor()
 
+        self.cur.execute("""CREATE TABLE IF NOT EXISTS botosaur_log(
+                            id INTEGER PRIMARY KEY AUTOINCREMENT,
+                            comment_id CHAR(10) NOT NULL,
+                            comment_author CHAR(50) NOT NULL,
+                            link_id CHAR(10) NOT NULL,
+                            replied INTEGER NOT NULL)""")
+
+        self.conn.commit()
+
     def update(self, arg):
         try:
             self.cur.execute(arg)

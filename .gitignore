@@ -1,2 +1,5 @@
 venv
 config.ini
+*.db
+*.pyc
+*.log

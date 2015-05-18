@@ -5,7 +5,7 @@ import logging
 import random
 import praw
 import requests
-from databasemanager import DatabaseManager
+from databasemanager import DatabaseManager, DatabaseFunctions
 from time import sleep
 from ConfigParser import SafeConfigParser
 from logging.handlers import TimedRotatingFileHandler
@@ -18,29 +18,20 @@ def getFact(file):
 
         return random.choice(content)
 
-def respondToTrigger(facts, comment):
+
+def respondWithFact(facts, comment):
     fact = getFact(facts)
     comment.reply(fact)
-
-def commentProcessed(db,comment_id):
-    query = "SELECT comment_id FROM botosaur_log WHERE comment_id='{0}'".format(comment_id)
-    result = db.query(query)
-
-    return result.fetchone()
-
-def addToDatabase(db,comment):
+      
+def botInfo(comment):
     
-    db.update("""INSERT INTO botosaur_log(comment_id, comment_author, link_id, replied)
-                VALUES('{comment_id}', '{comment_author}', '{link_id}', '{replied}')""".format(
-                    comment_id = comment.id,
-                    comment_author = comment.author.name,
-                    link_id = comment.link_id,
-                    replied = 0))
+    reply = """Hi, i'm botosaur. I reply to certain comments with useless facts about Dinosaurs!\n\n
 
-def updateDatabase(db,comment_id):
+               USAGE: Call me by mentioning my username +fact. E.g. /u/phalosaurus_ +fact\n\n
 
-    query = "UPDATE botosaur_log SET replied = 1 WHERE comment_id='{0}'".format(comment_id)
-    db.update(query)
+               My code can be found here: https://github.com/chelnak/Botosaur"""
+
+    comment.reply(reply)
 
 def main():
 
@@ -55,7 +46,7 @@ def main():
     #Configure logging
     logger = logging.getLogger('BOTOSAUR')
     logger.setLevel(logging.INFO)
-#    handler = logging.FileHandler(config['log_file'])
+#    handler = TimedRotatingFileHandler('test.log',when='midnight')
     handler = TimedRotatingFileHandler(config['log_file'],when='midnight')
     handler.setLevel(logging.INFO)
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -65,6 +56,7 @@ def main():
     #Initialize commentsDB
     logger.info('Initializing database')   
     db = DatabaseManager('botosaur.db')
+    dbcmd = DatabaseFunctions(db)
 
     #Initialize reddit client
     logger.info('Initializing reddit API client')
@@ -84,30 +76,34 @@ def main():
     
     while True:
         
-        comments = subreddit.get_comments(limit=int(config['limit']))
+        try:
+        
+            comments = subreddit.get_comments(limit=int(config['limit']))
 
-        for comment in comments:
+            for comment in comments:
 
-            if commentProcessed(db,comment.id) is None:
+                if dbcmd.isCommentProcessed(comment) is None:
                 
-                logger.info('Processing ' + comment.id + ' by user ' + comment.author.name)
-                addToDatabase(db, comment)
+                    logger.info('Processing ' + comment.id + ' by user ' + comment.author.name)
+                    dbcmd.insertRecord(comment)
 
-                if (config['trigger'] in comment.body):
-#                if (comment.author.name == config['bot_user'] and config['trigger'] in comment.body):
-
-                    logger.info('Found trigger in ' + comment.id)
-
-                    respondToTrigger(config['facts'], comment)
+                    if (config['trigger'] in comment.body):
                     
-                    logger.info('Updating replied field')                                    
+                        logger.info('Found trigger in ' + comment.id)
+                        respondWithFact(config['facts'], comment)                
+                        logger.info('Updating replied field')                                    
+                        dbcmd.updateRecordReplied(comment)
 
-                    updateDatabase(db, comment.id)
+                    else:         
 
-                else:         
-                    logger.info('No trigger found. Ignorinng comment')
+                        logger.info('No trigger found. Ignorinng comment')
 
-        sleep(int(config['poll_time']))
+            sleep(int(config['poll_time']))
+
+        except Exception as e:
+                    
+            logger.error(e)
+
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,2 @@
++info = About bot
++fact = FACT!

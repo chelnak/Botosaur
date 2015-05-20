@@ -14,7 +14,6 @@ class DatabaseManager(object):
             self.conn.rollback()
             raise e
 
-
     def query(self, arg):
         try:
             self.cur.execute(arg)
@@ -37,15 +36,20 @@ class DatabaseFunctions(object):
         return result.fetchone()
 
     def insertRecord(self,comment):
-
-        self.db.update("""INSERT INTO log(comment_id, comment_author, link_id, replied)
-                    VALUES('{comment_id}', '{comment_author}', '{link_id}', '{replied}')""".format(
+        self.db.update("""INSERT INTO log(comment_id, comment_author, link_id, replied,created_on)
+                    VALUES('{comment_id}', '{comment_author}', '{link_id}', '{replied}', '{created_on}')""".format(
                         comment_id = comment.id,
                         comment_author = comment.author.name,
                         link_id = comment.link_id,
                         replied = 0,
-                        timestamp = datetime.datetime.utcnow()))
+                        created_on = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")))
 
-    def updateRecordReplied(self,comment):
-        query = "UPDATE log SET replied = 1 WHERE comment_id='{0}'".format(comment.id)
+    def updateRecord(self,comment,fact_id):
+        query = "UPDATE log SET replied = 1, fact_id ={0}  WHERE comment_id='{1}'".format(fact_id, comment.id)
         self.db.update(query)
+
+    def getRandomFact(self):
+        query = "SELECT id, fact from fact ORDER BY RANDOM() LIMIT 1;"
+        result = self.db.query(query)   
+        return result.fetchone()
+    

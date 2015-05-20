@@ -19,8 +19,7 @@ def getFact(file):
         return random.choice(content)
 
 
-def respondWithFact(facts, comment):
-    fact = getFact(facts)
+def respondWithFact(fact, comment):
     comment.reply(fact)
       
 def botInfo(comment):
@@ -90,9 +89,11 @@ def main():
                     if (config['trigger'] in comment.body):
                     
                         logger.info('Found trigger in ' + comment.id)
-                        respondWithFact(config['facts'], comment)                
+                        fact = dbcmd.getRandomFact()
+                        logger.info('Retrieved fact: ' + str(fact[1]))
+                        respondWithFact(str(fact[1]), comment)                
                         logger.info('Updating replied field')                                    
-                        dbcmd.updateRecordReplied(comment)
+                        dbcmd.updateRecord(comment, int(fact[0]))
 
                     else:         
 

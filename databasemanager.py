@@ -1,18 +1,10 @@
 import sqlite3
+import datetime
 
 class DatabaseManager(object):
     def __init__(self,db):
         self.conn = sqlite3.connect(db)
         self.cur = self.conn.cursor()
-
-        self.cur.execute("""CREATE TABLE IF NOT EXISTS botosaur_log(
-                            id INTEGER PRIMARY KEY AUTOINCREMENT,
-                            comment_id CHAR(10) NOT NULL,
-                            comment_author CHAR(50) NOT NULL,
-                            link_id CHAR(10) NOT NULL,
-                            replied INTEGER NOT NULL)""")
-
-        self.conn.commit()
 
     def update(self, arg):
         try:
@@ -40,19 +32,20 @@ class DatabaseFunctions(object):
         self.db = db
 
     def isCommentProcessed(self,comment):
-        query = "SELECT comment_id FROM botosaur_log WHERE comment_id='{0}'".format(comment.id)
+        query = "SELECT comment_id FROM log WHERE comment_id='{0}'".format(comment.id)
         result = self.db.query(query)
         return result.fetchone()
 
     def insertRecord(self,comment):
 
-        self.db.update("""INSERT INTO botosaur_log(comment_id, comment_author, link_id, replied)
+        self.db.update("""INSERT INTO log(comment_id, comment_author, link_id, replied)
                     VALUES('{comment_id}', '{comment_author}', '{link_id}', '{replied}')""".format(
                         comment_id = comment.id,
                         comment_author = comment.author.name,
                         link_id = comment.link_id,
-                        replied = 0))
+                        replied = 0,
+                        timestamp = datetime.datetime.utcnow()))
 
     def updateRecordReplied(self,comment):
-        query = "UPDATE botosaur_log SET replied = 1 WHERE comment_id='{0}'".format(comment.id)
+        query = "UPDATE log SET replied = 1 WHERE comment_id='{0}'".format(comment.id)
         self.db.update(query)

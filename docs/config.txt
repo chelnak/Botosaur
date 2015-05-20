@@ -1,0 +1,3 @@
+config.ini should live in /etc/dinofactsbot/config.ini
+logging directory should be /var/log/dinofactsbot/monitor.log
+

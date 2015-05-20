@@ -1,0 +1,12 @@
+File placement:
+upstart config should live in /etc/init/dinofactsbot.conf
+
+Once installed run:
+sudo initctl reload
+
+To start and stop the service:
+sudo start dinofactsbot
+sudo stop dinofactsbot
+
+Logging:
+Upstart will log to /var/log/dinofactsbot/upstart.log

@@ -40,7 +40,7 @@ def main():
 
     #Get configuration  
     parser = SafeConfigParser()
-    parser.read('/etc/botosaur/config.ini')
+    parser.read('/etc/dinofactsbot/config.ini')
     config = parser._sections['defaults']
 
     #Configure logging
@@ -55,7 +55,7 @@ def main():
 
     #Initialize commentsDB
     logger.info('Initializing database')   
-    db = DatabaseManager('botosaur.db')
+    db = DatabaseManager(config['database'])
     dbcmd = DatabaseFunctions(db)
 
     #Initialize reddit client

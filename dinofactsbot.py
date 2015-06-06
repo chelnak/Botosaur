@@ -2,21 +2,12 @@
 
 import os
 import logging
-import random
 import praw
 import requests
-from databasemanager import DatabaseManager, DatabaseFunctions
+from restclient import RestClient
 from time import sleep
 from ConfigParser import SafeConfigParser
 from logging.handlers import TimedRotatingFileHandler
-
-def getFact(file):
-    content = None
-    if os.path.isfile(file):
-        with open(file, 'r') as f:
-            content = f.readlines()
-
-        return random.choice(content)
 
 
 def respondWithFact(fact, comment):
@@ -24,7 +15,7 @@ def respondWithFact(fact, comment):
       
 def botInfo(comment):
     
-    reply = """Hi, i'm botosaur. I reply to certain comments with useless facts about Dinosaurs!\n\n
+    reply = """Hi, i'm DinoFactsBot. I reply to certain comments with useless facts about Dinosaurs!\n\n
 
                USAGE: Call me by mentioning my username +fact. E.g. /u/phalosaurus_ +fact\n\n
 
@@ -35,7 +26,7 @@ def botInfo(comment):
 def main():
 
     #Do requests SSL stuff
-    requests.packages.urllib3.disable_warnings()
+    #requests.packages.urllib3.disable_warnings()
 
     #Get configuration  
     parser = SafeConfigParser()
@@ -43,19 +34,16 @@ def main():
     config = parser._sections['defaults']
 
     #Configure logging
-    logger = logging.getLogger('BOTOSAUR')
+    logger = logging.getLogger('DINOFACTSBOT')
     logger.setLevel(logging.INFO)
-#    handler = TimedRotatingFileHandler('test.log',when='midnight')
     handler = TimedRotatingFileHandler(config['log_file'],when='midnight')
     handler.setLevel(logging.INFO)
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     handler.setFormatter(formatter)
     logger.addHandler(handler)
 
-    #Initialize commentsDB
-    logger.info('Initializing database')   
-    db = DatabaseManager(config['database'])
-    dbcmd = DatabaseFunctions(db)
+    #Initialize rest client
+    client = RestClient(config['api_host'])
 
     #Initialize reddit client
     logger.info('Initializing reddit API client')
@@ -81,19 +69,23 @@ def main():
 
             for comment in comments:
 
-                if dbcmd.isCommentProcessed(comment) is None:
+                if client.isCommentProcessed(comment.id) is 0:
                 
                     logger.info('Processing ' + comment.id + ' by user ' + comment.author.name)
-                    dbcmd.insertRecord(comment)
+                    record = client.insertRecord(comment)
+                    logger.info('New log record created: ' + str(record['id']))
+
 
                     if (config['trigger'] in comment.body):
                     
                         logger.info('Found trigger in ' + comment.id)
-                        fact = dbcmd.getRandomFact()
-                        logger.info('Retrieved fact: ' + str(fact[1]))
-                        respondWithFact(str(fact[1]), comment)                
-                        logger.info('Updating replied field')                                    
-                        dbcmd.updateRecord(comment, int(fact[0]))
+                        fact = client.getRandom()
+
+                        logger.info('Retrieved fact:{fact} '.format(fact=fact['id']))
+                        comment.reply(fact['fact'])
+
+                        logger.info('Updating record field')                                    
+                        client.updateRecord(record['id'], fact['id'])
 
                     else:         
 
